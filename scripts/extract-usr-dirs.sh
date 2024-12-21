@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source ./extract.sh
+source ./functions.extract.sh
 
 get_extract_info_string() {
     local version="$1"
@@ -80,8 +80,8 @@ extract_20l() {
     cd "$wd"
 }
 
-extract_20h $wd "2.0H"
-extract_20i $wd "2.0I"
-extract_20j $wd "2.0J"
-extract_20k $wd "2.0K"
-extract_20l $wd "2.0L"
+extract_20h "2.0H"
+extract_20i "2.0I"
+extract_20j "2.0J"
+extract_20k "2.0K"
+extract_20l "2.0L"

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source utils.sh
+source functions.utils.sh
 
 extract_unzip_cd() {
     echo "Extract (unzip; cd): \"$1\""

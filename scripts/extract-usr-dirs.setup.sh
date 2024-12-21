@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# TODO: use this script
+
 setup_requirements() {
     sudo apt update
     sudo apt install git cmake make

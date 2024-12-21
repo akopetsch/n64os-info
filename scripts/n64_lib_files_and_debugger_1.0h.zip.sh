@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source ./extract.sh
+source ./functions.extract.sh
 
 wd=$(pwd)
 cd downloads
