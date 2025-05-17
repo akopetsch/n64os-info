@@ -1,5 +1,7 @@
 # n64os-info
 
+Before this repository, only a [Pastebin](https://pastebin.com/xia2DU6w) existed to document the version history N64 SDKs.
+
 The official Nintendo 64 SDK that was sent to developers was split among a number of discs [[1]][[2]], 
 among that the **Nintendo 64 OS (N64 OS)** which contained e.g. release notes, documentation, libultra, C headers, object files and microcode.
 
